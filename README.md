@@ -1,4 +1,4 @@
-#  Notion MCP Agent
+#  END TO END Notion MCP Agent
 
 A project to interact with your Notion workspace using natural language commands via Notion MCP, Flask, and Streamlit.
 
